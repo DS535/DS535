@@ -10,9 +10,10 @@ So far, I have worked on below technologies and tools
 Support Vector Machines, Random Forest, Naive Bayes, 
 Decision Tree, K- Means Clustering, DBSCAN, Recommendation System
 
-**DL Skills**: CNN, RNN, LSTM/GRUs, Encoder-Decoder (Seq2Seq Models), Attention Models, Transfer Learning (VGG-16, ResNet-50) Transformers
-BERT
-Descriptive and Inferential Statistics: Central Tendency, Variance, 
+**DL Skills**: CNN, RNN, LSTM/GRUs, Encoder-Decoder (Seq2Seq Models), Attention Models, Transfer Learning (VGG-16, ResNet-50),
+Transformers,BERT
+
+**Descriptive and Inferential Statistics:** Central Tendency, Variance, 
 Standard Deviation, Confidence Level, p-value, Hypothesis Testing, Multicollinearity, Autocorrelation, Time Series Analysis
 
 **Programming Languages**: Python, Java
@@ -29,4 +30,6 @@ Standard Deviation, Confidence Level, p-value, Hypothesis Testing, Multicollinea
 **Big Data Tools:** PySpark, MLlib, BigQuery 
 
 **Chatbot Frameworks:** DialogFlow, RASA
+
+email: datascientist.deepak@gmail.com
 
