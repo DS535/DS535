@@ -2,12 +2,14 @@ Hello Folks,
 
 I am Deepak! I am a Data Scientist/ML Engineer
 
-Below are my skills and tools:
+So far, I have worked on below technologies and tools
 
 **Skills and Tools:**
+
 **ML Skills:** Linear Regression, Logistic Regression, 
 Support Vector Machines, Random Forest, Naive Bayes, 
 Decision Tree, K- Means Clustering, DBSCAN, Recommendation System
+
 **DL Skills**: CNN, RNN, LSTM/GRUs, Encoder-Decoder (Seq2Seq Models), Attention Models, Transfer Learning (VGG-16, ResNet-50) Transformers
 BERT
 Descriptive and Inferential Statistics: Central Tendency, Variance, 
