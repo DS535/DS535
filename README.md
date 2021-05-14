@@ -16,10 +16,17 @@ Descriptive and Inferential Statistics: Central Tendency, Variance,
 Standard Deviation, Confidence Level, p-value, Hypothesis Testing, Multicollinearity, Autocorrelation, Time Series Analysis
 
 **Programming Languages**: Python, Java
+
 **Databases and Big Data Experience**: 
+
+
 **Relational Databases:** Oracle (SQL, PL/SQL), MySQL
+
 **In-Memory/Columnar Databases:** SAP HANA, Vertica
+
 **No-SQL Databases:** MongoDB, ElasticSearch
+
 **Big Data Tools:** PySpark, MLlib, BigQuery 
+
 **Chatbot Frameworks:** DialogFlow, RASA
 
